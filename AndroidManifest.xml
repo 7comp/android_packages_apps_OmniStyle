@@ -48,6 +48,102 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".weather_color"
+            android:label="LockClock (color)" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_marshmallow"
+            android:label="Marshmallow" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_weezle"
+            android:label="Weezle" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_gs6"
+            android:label="Galaxy S6" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_gnw"
+            android:label="Google Now" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_miui"
+            android:label="MIUI" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_sthul"
+            android:label="Sthul" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_tapas"
+            android:label="Tapas" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_magical"
+            android:label="Magical" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".weather_vclouds"
+            android:label="VClouds" >
+            <intent-filter>
+                <action android:name="org.omnirom.WeatherIconPack" />
         <activity
             android:name=".BrowseThemeHeaderActivity"
             android:label="@string/browse_theme_header" >
@@ -81,6 +177,96 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".naturerandom"
             android:label="Nature (random)" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".screwd"
+            android:label="Screwd" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+	<activity
+	    android:name=".nitrogen"
+	    android:label="Nitrogen" >
+	    <intent-filter>
+		<action android:name="org.omnirom.DaylightHeaderPack1" />
+
+		<category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".citystyle"
+            android:label="CityStyle" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+
+        <activity
+            android:name=".colorz"
+            android:label="Colorful" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".colorz_smart"
+            android:label="Textures with smart color" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".camo"
+            android:label="Camouflage" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".rr"
+            android:label="Remix" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".rr_smart"
+            android:label="Remix with smart color" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+         <activity
+            android:name=".omni_syed"
+            android:label="Syed" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
