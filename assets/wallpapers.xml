@@ -16,38 +16,38 @@
  -->
 
 <wallpapers>
-    <wallpaper image="rrm1" />
-    <wallpaper image="rrm2" />
-    <wallpaper image="rrm3" />
-    <wallpaper image="rrm4" />
-    <wallpaper image="rrm5" />
-    <wallpaper image="rrm6" />
-    <wallpaper image="rrm7" />
-    <wallpaper image="rrm8" />
-    <wallpaper image="rrm9" />
-    <wallpaper image="rrm10" />
-    <wallpaper image="rrm11" />
-    <wallpaper image="rrm12" />
-    <wallpaper image="rrm13" />
-    <wallpaper image="rrm14" />
-    <wallpaper image="rrm15" />
-    <wallpaper image="rrm16" />
-    <wallpaper image="rrm18" />
-    <wallpaper image="rrm19" />
-    <wallpaper image="rrm20" />
-    <wallpaper image="rrm21" />
-    <wallpaper image="rrm22" />
-    <wallpaper image="rrm23" />
-    <wallpaper image="rrm24" />
-    <wallpaper image="rrm25" />
-    <wallpaper image="rrm26" />
-    <wallpaper image="rrm27" />
-    <wallpaper image="rrm28" />
-    <wallpaper image="rrm29" />
-    <wallpaper image="rrm30" />
-    <wallpaper image="rrm31" />
-    <wallpaper image="rrm32" />
-    <wallpaper image="rrm33" />
+    <wallpaper image="rrm1" creator="Roger Truttmann" />
+    <wallpaper image="rrm2" creator="Roger Truttmann" />
+    <wallpaper image="rrm3" creator="Roger Truttmann" />
+    <wallpaper image="rrm4" creator="Roger Truttmann" />
+    <wallpaper image="rrm5" creator="Roger Truttmann" />
+    <wallpaper image="rrm6" creator="Roger Truttmann" />
+    <wallpaper image="rrm7" creator="Roger Truttmann" />
+    <wallpaper image="rrm8" creator="Roger Truttmann" />
+    <wallpaper image="rrm9" creator="Roger Truttmann" />
+    <wallpaper image="rrm10" creator="Roger Truttmann" />
+    <wallpaper image="rrm11" creator="Roger Truttmann" />
+    <wallpaper image="rrm12" creator="Roger Truttmann" />
+    <wallpaper image="rrm13" creator="Roger Truttmann" />
+    <wallpaper image="rrm14" creator="Roger Truttmann" />
+    <wallpaper image="rrm15" creator="Roger Truttmann" />
+    <wallpaper image="rrm16" creator="Roger Truttmann" />
+    <wallpaper image="rrm18" creator="Roger Truttmann" />
+    <wallpaper image="rrm19" creator="Roger Truttmann" />
+    <wallpaper image="rrm20" creator="Roger Truttmann" />
+    <wallpaper image="rrm21" creator="Roger Truttmann" />
+    <wallpaper image="rrm22" creator="Roger Truttmann" />
+    <wallpaper image="rrm23" creator="Roger Truttmann" />
+    <wallpaper image="rrm24" creator="Roger Truttmann" />
+    <wallpaper image="rrm25" creator="Roger Truttmann" />
+    <wallpaper image="rrm26" creator="Roger Truttmann" />
+    <wallpaper image="rrm27" creator="Roger Truttmann" />
+    <wallpaper image="rrm28" creator="Roger Truttmann" />
+    <wallpaper image="rrm29" creator="Roger Truttmann" />
+    <wallpaper image="rrm30" creator="Roger Truttmann" />
+    <wallpaper image="rrm31" creator="Roger Truttmann" />
+    <wallpaper image="rrm32" creator="Roger Truttmann" />
+    <wallpaper image="rrm33" creator="Roger Truttmann" />
 
     <wallpaper image="wall01" />
     <wallpaper image="wall02" />
@@ -103,13 +103,13 @@
     <wallpaper image="wall64" creator="Afsha Norsham" />
     <wallpaper image="wall65" creator="Afsha Norsham" />
     <wallpaper image="wall66" creator="Afsha Norsham" />
-    <wallpaper image="bliss22" />
-    <wallpaper image="bliss23" />
-    <wallpaper image="bliss24" />
-    <wallpaper image="bliss25" />
-    <wallpaper image="bliss26" />
-    <wallpaper image="bliss27" />
-    <wallpaper image="bliss28" />
-    <wallpaper image="bliss29" />
-    <wallpaper image="bliss30" />
+    <wallpaper image="bliss22" creator="Roger Truttmann" />
+    <wallpaper image="bliss23" creator="Roger Truttmann" />
+    <wallpaper image="bliss24" creator="Roger Truttmann" />
+    <wallpaper image="bliss25" creator="Roger Truttmann" />
+    <wallpaper image="bliss26" creator="Roger Truttmann" />
+    <wallpaper image="bliss27" creator="Roger Truttmann" />
+    <wallpaper image="bliss28" creator="Roger Truttmann" />
+    <wallpaper image="bliss29" creator="Roger Truttmann" />
+    <wallpaper image="bliss30" creator="Roger Truttmann" />
 </wallpapers>
